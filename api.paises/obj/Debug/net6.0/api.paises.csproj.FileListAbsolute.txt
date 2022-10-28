@@ -35,3 +35,4 @@ C:\Repositorio\APIs\UCOM\Taller de Analisis II\APIs\OpticaPortal\api.paises\bin\
 C:\Repositorio\APIs\UCOM\Taller de Analisis II\APIs\OpticaPortal\api.paises\bin\Debug\net6.0\Npgsql.dll
 C:\Repositorio\APIs\UCOM\Taller de Analisis II\APIs\OpticaPortal\api.paises\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Repositorio\APIs\UCOM\Taller de Analisis II\APIs\OpticaPortal\api.paises\obj\Debug\net6.0\api.paises.csproj.AssemblyReference.cache
+C:\Repositorio\APIs\UCOM\Taller de Analisis II\APIs\OpticaPortal\api.paises\bin\Debug\net6.0\Newtonsoft.Json.dll
